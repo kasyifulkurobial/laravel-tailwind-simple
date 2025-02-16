@@ -85,7 +85,3 @@ php artisan route:list
 # Menjalankan mode pengawasan untuk perubahan frontend
 npm run watch
 ```
-
-### Lisensi
-Proyek ini menggunakan lisensi [MIT](LICENSE).
-
