@@ -30,6 +30,9 @@ php artisan key:generate
 # Migrasi dan seeding database (opsional)
 php artisan migrate --seed
 
+# Instal PHP Faker untuk seeding data
+composer require fakerphp/faker
+
 # Instal dependensi frontend menggunakan npm
 npm install
 
